@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#aaa997"/>
+  <rect x="65" y="52" width="770" height="456" rx="28" fill="#ece8dd" stroke="#fff" stroke-width="3"/>
+  <text x="102" y="108" fill="#34352f" font-family="Arial" font-size="24" font-weight="700">E.C.O.S.</text>
+  <rect x="102" y="132" width="696" height="330" rx="18" fill="#d1cbb8"/>
+  <path d="M130 410l95-55 70 28 95-92 98 42 95-98 108 38 85-70" fill="none" stroke="#62644f" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M130 410l95-55 70 28 95-92 98 42 95-98 108 38 85-70v215H130z" fill="#858770" opacity=".28"/>
+  <circle cx="390" cy="291" r="12" fill="#37392f"/>
+  <circle cx="488" cy="333" r="12" fill="#37392f"/>
+  <circle cx="583" cy="235" r="12" fill="#37392f"/>
+  <rect x="102" y="475" width="696" height="12" rx="6" fill="#bbb49e"/>
+</svg>

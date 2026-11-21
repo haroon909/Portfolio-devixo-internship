@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#c7c0ae"/>
+  <rect x="70" y="65" width="760" height="430" rx="28" fill="#eeeadf" stroke="#fff" stroke-width="3"/>
+  <text x="110" y="118" fill="#34332d" font-family="Arial" font-size="22" font-weight="700">ORIVEX</text>
+  <circle cx="758" cy="108" r="18" fill="#85836d"/>
+  <path d="M110 230h270v210H110z" fill="#aaa28e"/>
+  <path d="M130 250h230v170H130z" fill="#7e7d67"/>
+  <circle cx="245" cy="335" r="58" fill="#dcd5c2"/>
+  <rect x="430" y="195" width="330" height="30" rx="15" fill="#37362f"/>
+  <rect x="430" y="245" width="260" height="18" rx="9" fill="#aaa28e"/>
+  <rect x="430" y="276" width="300" height="18" rx="9" fill="#aaa28e"/>
+  <rect x="430" y="320" width="140" height="44" rx="10" fill="#77755f"/>
+  <rect x="110" y="460" width="650" height="12" rx="6" fill="#d2ccbb"/>
+</svg>
